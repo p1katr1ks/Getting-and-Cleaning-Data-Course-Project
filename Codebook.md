@@ -27,4 +27,4 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-With this script we calculated the average for following signals: mean(): Mean value and std(): Standard deviation
+With this script we calculated the average for following signals: Mean value (mean) and Standard deviation (std)
